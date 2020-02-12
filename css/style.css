@@ -30,6 +30,7 @@ img{ max-width:100%;}
 input,button {outline:none;}
 .title
 { padding: 10px 0 10px 0;
+  margin: 25px;
   text-align:center;
   background: #fff;
   }
@@ -78,7 +79,7 @@ table {
 }
 .table>tbody>tr>td{
     padding: 5px;
-    line-height: 1.42857143;
+    line-height: 1.8564;
     vertical-align: top;
     border-top: 1px solid #ddd;
     font-size: 16px; text-align: center; vertical-align: middle;
