@@ -7,6 +7,9 @@ body{
 	color:#212121; 
 	position: relative; 
 	min-width:1280px;}
+#Black {
+	font-family: Arial Black;
+}
 li{ 
 	list-style:none;}
 ul{ 
@@ -62,7 +65,6 @@ input,button {outline:none;}
 }
 table {
     background-color: transparent;
-	
 }
 table {
     border-spacing: 0;
@@ -79,7 +81,7 @@ table {
     line-height: 1.42857143;
     vertical-align: top;
     border-top: 1px solid #ddd;
-    font-size: 15px; text-align: center; vertical-align: middle;
+    font-size: 16px; text-align: center; vertical-align: middle;
 }
 .table-bordered a{ color: #3041e7; }
 .table>tbody>tr>td.td-back{ background: #deffee; }
